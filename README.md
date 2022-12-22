@@ -1,0 +1,1 @@
+# amplify-trisha-graphql
